@@ -4,7 +4,7 @@ Medical Graph RAG: Towards Safe Medical Large Language Model via Graph Retrieval
 
 关键词：医药RAG框架、知识图谱、检索方法
 
-![0320-photo](images\0320-photo.jpg)
+![](images\0320-photo.jpg)
 
 ## 框架说明
 
