@@ -10,4 +10,4 @@
 
 ### 方法及框架
 
-![0327-photo-Autotimes](images\0327-photo-Autotimes.png)
+![0327-photo-Autotimes](images/0327-photo-Autotimes.png)
